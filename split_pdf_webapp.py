@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_option('server.maxUploadSize', 1024)  # Allow uploads up to 1GB
 import fitz  # PyMuPDF
 import tempfile
 import os
