@@ -1,0 +1,2637 @@
+PDF: C:\Users\viran\Downloads\PDF Splitter\Human Resource Management -- Sandra L Steen; Raymond A Noe; John R Hollenbeck; Barry A -- Fifth Canadian edition, Whitby, Ontario, 2019 -- McGraw Hill -- 978125965.pdf
+
+Auditing all lines matching the chapter pattern...
+
+=== PDF page 25 ===
+Matched line: 'CHAPTER 1' (line 3 on page)
+First 10 lines of this page:
+  The Human
+  Resource Environment
+  CHAPTER 1
+  Strategies, Trends, and Opportunities for
+  Human Resource Management
+  CHAPTER 2
+  The Legal Context for HRM and Creating
+  Safe and Healthy Workplaces
+  o E—
+  ~~
+
+=== PDF page 25 ===
+Matched line: 'CHAPTER 2' (line 6 on page)
+First 10 lines of this page:
+  The Human
+  Resource Environment
+  CHAPTER 1
+  Strategies, Trends, and Opportunities for
+  Human Resource Management
+  CHAPTER 2
+  The Legal Context for HRM and Creating
+  Safe and Healthy Workplaces
+  o E—
+  ~~
+
+=== PDF page 27 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  Earning a Reputation
+  as a Great Employer
+  What do Shopify, Simon Fraser University, Aboriginal
+  Peoples Television Network Inc. (APTN), PCL Construc-
+  tion, Government of Yukon, Labatt Breweries of Canada,
+  and Google have in common? They have all been recently
+  recognized as excellent employers with progressive human
+  resource management practices.”
+  The list of employment awards is growing, raising the
+
+=== PDF page 29 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  Did You Know?
+  Strategies, Trends, and Opportunities for Human Resource Management
+  5
+  - tt
+  id
+  ;
+  1%
+  pid AHS
+  |
+
+=== PDF page 31 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  Although
+  the human
+  resource
+  department
+  has
+  responsibility for these areas, many of the requirements
+  are performed by supervisors or others inside or outside
+  the organization. No two human resource departments
+  have precisely the same roles, because of differences in
+
+=== PDF page 33 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  strategy requires knowledge of industry norms, so that the
+  company does not spend more than market rates of pay
+  for similar positions. Planning pay and benefits involves
+  many decisions, often complex and based on knowledge
+  of a multitude of legal requirements. An important deci-
+  sion is how much to offer in salary or wages, as opposed
+  to bonuses, commissions, and other performance-related
+  pay. Other decisions involve which benefits to offer, from
+  retirement plans to various kinds of insurance to other
+
+=== PDF page 35 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  cannabis for recreational use has far-reaching implications
+  for Canadian workplaces. And, as the age of the workforce
+  increases, as described later in this chapter, the number of
+  cases dealing with age discrimination in layoffs, promo-
+  tions, and benefits will likely rise. Employers will need to
+  review recruitment practices and performance evaluation
+  systems, revising them if necessary to ensure that they do
+  not discriminate on the basis of age.
+  Focus on Strategy
+
+=== PDF page 37 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  Typically,
+  an
+  organization’s
+  stakeholders
+  include
+  shareholders, the community, customers, and employees.
+  Sustainable organizations meet their needs by minimizing
+  their
+  environmental
+
+=== PDF page 39 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  Companies that are successful and widely admired
+  not only operate on a multinational scale, but also have
+  workforces and corporate cultures that reflect their global
+  markets. Yum Brands was quick to seize on the potential
+  of China’s massive population: in 1987, its KFC restau-
+  rants became the first fast-food chain to enter China, and in
+  1990 its Pizza Hut brand became the first pizza chain there.
+  Today the company has more than 6,000 restaurants in the
+  country with plans to open hundreds more. More than half
+
+=== PDF page 41 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  ricune
+  1.5
+  Strategies, Trends, and Opportunities for Human Resource Management
+  17
+  Median Salary and Median Salary + Bonus for HRM Positions (Toronto, Ontario)
+  Position
+  Human Resources Director
+  Health & Safety Manager
+  HRIS Manager
+
+=== PDF page 43 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  TABLE 1.4
+  CPHR Canada’s Code of Ethics and Rules
+  of Professional Conduct (Overview)
+  r
+  ties
+  to
+  th
+  Diiblic
+  uties
+
+=== PDF page 45 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  career plateauing, retirement planning, and retraining
+  older workers to avoid skill obsolescence. Companies will
+  struggle with how to control the rising costs of benefits
+  and health care. Companies face competing challenges
+  with older workers. Companies will have to ensure that
+  older workers are not discriminated against in hiring,
+  training, and workforce reduction decisions. At the same
+  time, companies will want to encourage retirement and
+  make it financially and psychologically acceptable.
+
+=== PDF page 47 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  To find such employees, many organizations are looking
+  for educational achievements. A college diploma, university
+  degree, or skilled trades certificate is a basic requirement
+  for many jobs today. Competition for qualified college,
+  university, and skilled trades graduates in many fields is
+  intense. At the other extreme, workers with less education
+  often have to settle for low-paying jobs. Some companies
+  are unable to find qualified employees and instead rely on
+  training and re-skilling to address skill gaps.™
+
+=== PDF page 49 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  Al’s predictive capabilities can also be used to supplement
+  human decision making to reduce bias in hiring, assess
+  potential, and make promotion decisions as well as support
+  a variety of other HR functions; for example, workforce
+  planning and compensation and benefits planning.
+  Robots are being used in manufacturing.’ Heasy,
+  a robot with eyes, can help you find your way through a
+  hotel or resort. Airport Guide Robot can answer airline
+  passengers’
+
+=== PDF page 50 ===
+Matched line: 'Chapter 11 examines high-performance work systems in' (line 140 on page)
+First 10 lines of this page:
+  26
+  PART 1.
+  The Human Resource Environment
+  or restricted to use by a single company (private cloud).
+  Cloud computing gives companies and their employees
+  access
+  to applications
+  and information
+  from mobile
+  devices rather than relying solely on personal computers.
+
+=== PDF page 51 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  Thinking Ethically
+  Strategies, Trends, and Opportunities for Human Resource Management
+  2,
+  Using Data Analytics Responsibly
+  “There are certain things that, mathematically,
+  may sound right but, ethically, [do] not,” says Arun
+  Chidambaram, global head of talent analytics at
+  Pfizer. In these instances, the talent analytics team
+  defers to legal, HR and other business analysts.
+
+=== PDF page 53 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  LO4 Describe trends in the composition and
+  expectations of the labour force.
+  Canada’s labour force is aging, multi-generational, and
+  diverse. Immigration is an important force for population
+  and labour force growth. The Indigenous population is
+  growing more rapidly than the non-Indigenous population
+  and is characterized by having many young people under
+  the age of 14 years. The educational attainment of the
+  labour force is increasing and knowledge workers hold a
+
+=== PDF page 55 ===
+Matched line: 'Chapter 1' (line 1 on page)
+First 10 lines of this page:
+  Chapter 1
+  Strategies, Trends, and Opportunities for Human Resource Management
+  31
+  investigates and responds to any complaints it sees. At
+  Questions
+  one point the department noticed a pattern of employees
+  complaining that it was difficult to balance the demands of
+  1. In what ways
+  is knowledge a source of power for
+  work and their personal lives. The department responded
+
+=== PDF page 56 ===
+Matched line: '[CHAPTER 2' (line 1 on page)
+First 10 lines of this page:
+  [CHAPTER 2
+  The Legal Context for HRM
+  and Creating Safe and
+  Healthy Workplaces
+  WHAT DO | NEED TO KNOW?
+  After reading this chapter, you should be able to:
+  LO1
+  Explain the overall context and legal framework for human resource
+  management in Canada.
+  LO2
+
+=== PDF page 57 ===
+Matched line: 'Chapter 2. The Legal Context for HRM and Creating Safe and Healthy Workplaces' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2. The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  35
+  PSPC Recognized as a
+  Best Diversity Employer
+  Public Services and Procurement Canada (PSPC), which
+  serves federal departments and agencies as “the cen-
+  tral purchasing agent, real property manager, treasurer,
+  accountant,
+  pay and pension
+  administrator,
+
+=== PDF page 59 ===
+Matched line: 'Chapter 2 The Legal Context for HRM and Creating Safe and Healthy Workplaces' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2 The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  TABLE 2.2
+  What Types of Organizations Are Regulated by the Provinces and Territories versus the
+  Federal Government?
+  Organizations Regulated by the Federal Government
+  Banks
+  Marine shipping, ferry and port services
+  Air transportation, including airports, aerodromes,
+  and airlines
+  Railway and road transportation that involves
+
+=== PDF page 61 ===
+Matched line: 'Chapter 2 The Legal Context for HRM and Creating Safe and Healthy Workplaces' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2 The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  Si,
+  hiring or promoting one person over an equally qualified
+  person
+  because
+  of the individual’s
+  race.
+  Suppose
+  a
+  company fails to hire women with school-age children
+
+=== PDF page 63 ===
+Matched line: 'Chapter 2. The Legal Context for HRM and Creating Safe and Healthy Workplaces' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2. The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  39
+  FIGURE
+  2.2
+  Human Rights Allegations and pon nenls (Federal Prohibited Grounds)
+  :
+  | Prohibited Ground
+  Description
+  Allegation
+  Settlement
+
+=== PDF page 65 ===
+Matched line: 'Chapter 2' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2
+  The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  41
+  Sources: From “Prohibited Grounds of Discrimination in Canada,” pp. 1-3, Canadian Human Rights Commission, 1998. Settlement
+  Examples, www.chrc-ccdp.ca/disputeresolution_reglementdifferends/settlements_ententes-eng.aspx; Discrimination and Harassment,
+  www.chrc-ccdp.ca/discrimination/act_actes-eng.aspx. Canadian Human Rights Commission.
+  incidents of sexual harassment in the workplace, it contin-
+  ues to rear its ugly head.””4
+  The Canada Labour Code defines sexual harassment
+  as “any conduct, comment, gesture, or contact of a sexual
+
+=== PDF page 67 ===
+Matched line: 'Chapter 2 The Legal Context for HRM and Creating Safe and Healthy Workplaces' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2 The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  43
+  © Members of visible minorities (“A person in a visible
+  minority group is someone, other than an Aboriginal
+  person as defined above, who is non-white in colour/
+  race, regardless of place of birth.”)*!
+  e Persons with disabilities (“A person with a disability
+  has a long-term or recurring physical, mental, sensory,
+  psychiatric, or learning impairment.”)*?
+  Employment
+
+=== PDF page 69 ===
+Matched line: 'Chapter 2.' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2.
+  The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  45
+  Privacy legislation principles establish standards for
+  privacy practices and have implications for organizations
+  and
+  their
+  responsibilities
+  to
+  safeguard
+
+=== PDF page 70 ===
+Matched line: 'Chapter 8 includes a discussion of job evaluation, which' (line 85 on page)
+First 10 lines of this page:
+  46
+  PART 1.
+  The Human Resource Environment
+  Are Unpaid Internships a Violation of Minimum Employment
+  Standards?
+  The federal government has confronted “uncom-
+  fortable
+  questions”
+  about
+  extensive
+
+=== PDF page 71 ===
+Matched line: 'Chapter 2. The Legal Context for HRM and Creating Safe and Healthy Workplaces' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2. The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  47
+  Cumulatively, however, these factors do not explain the
+  entire wage gap or earnings gap between men and women.
+  For example, Statistics Canada reported the results of
+  a study of 29 universities related to the salaries of male
+  and female professors. The study revealed that “male uni-
+  versity professors earned on average up to $17,300 more
+  than female colleagues.”*° According to the Canadian
+  Association of University Teachers (CAUT), one reason
+
+=== PDF page 73 ===
+Matched line: 'Chapter 2' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2
+  The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  49
+  Did You KNOW?
+  Top Seven Dangers for Young Workers (in BC)
+  Young workers are at significant risk of injury in a
+  substances or objects when employed as cooks,
+  number of industries as a result of lifting objects;
+  waiters, and food preparers in the hospitality and
+  at risk of falls when working at elevated levels;
+
+=== PDF page 75 ===
+Matched line: 'Chapter 2. The Legal Context for HRM and Creating Safe and Healthy Workplaces' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2. The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  51
+  focused on the importance of having a culture of safety
+  and sharing responsibility between employees and the
+  organization.°*
+  Employee Rights and
+  Responsibilities
+  All Canadian workers
+  have three fundamental
+  rights
+
+=== PDF page 77 ===
+Matched line: 'Chapter 2' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2
+  The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  almost 18 percent between 2005 and 2016 (see Figure 2.6).
+  Although on every second day in 2016, one fewer person
+  lost their life due to work than in 2005, 904 lives were lost
+  to workplace fatalities in Canada, a terrible and tragic loss
+  of life. There has been a relatively significant reduction in
+  time-loss injuries experienced in recent years relative to
+  1996-2008 levels (Figure 2.7),
+  FicuRe
+
+=== PDF page 79 ===
+Matched line: 'Chapter 2' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2
+  The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  55
+  Reinforcing Safe Practices
+  To ensure safe behaviours, employers should not only
+  define how to work safely but also reinforce the desired
+  behaviour. One common technique for reinforcing safe
+  practices is implementing a safety incentive program to
+  reward workers for their support of and commitment to
+  safety goals. Such programs start by focusing on monthly
+
+=== PDF page 81 ===
+Matched line: 'Chapter 2' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2
+  The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  57
+  everyone’s joint concern, so the safety programs needed to
+  be defined from the bottom of the organization up.”
+  Another challenge in promoting safety globally is
+  that laws, enforcement practices, and political climates
+  vary from country to country. With the increasing use of
+  offshoring, described in Chapter 1, more companies have
+  Operations in countries where employment and labour
+
+=== PDF page 83 ===
+Matched line: 'Chapter 2 The Legal Context for HRM and Creating Safe and Healthy Workplaces' (line 1 on page)
+First 10 lines of this page:
+  Chapter 2 The Legal Context for HRM and Creating Safe and Healthy Workplaces
+  59
+  Questions
+  1. What is your reaction to Sodexo’s goal that by 2025
+  at least 40 of senior global leaders will be women?
+  What could go wrong? What must go right?
+  2. Why do you think Sodexo teams with gender-
+  balanced leadership have achieve higher levels of
+  performance than teams that do not have gender-
+  balanced leadership?
+
+=== PDF page 85 ===
+Matched line: 'CHAPTER 3' (line 3 on page)
+First 10 lines of this page:
+  Preparing for and Acquiring
+  Human Resources
+  CHAPTER 3
+  Analyzing Work and Designing Jobs
+  CHAPTER 4
+  Planning for and Recruiting Human Resources
+  CHAPTER 5
+  Selecting Employees
+  —
+  + -
+
+=== PDF page 85 ===
+Matched line: 'CHAPTER 4' (line 5 on page)
+First 10 lines of this page:
+  Preparing for and Acquiring
+  Human Resources
+  CHAPTER 3
+  Analyzing Work and Designing Jobs
+  CHAPTER 4
+  Planning for and Recruiting Human Resources
+  CHAPTER 5
+  Selecting Employees
+  —
+  + -
+
+=== PDF page 85 ===
+Matched line: 'CHAPTER 5' (line 7 on page)
+First 10 lines of this page:
+  Preparing for and Acquiring
+  Human Resources
+  CHAPTER 3
+  Analyzing Work and Designing Jobs
+  CHAPTER 4
+  Planning for and Recruiting Human Resources
+  CHAPTER 5
+  Selecting Employees
+  —
+  + -
+
+=== PDF page 87 ===
+Matched line: 'Chapter 3.' (line 62 on page)
+First 10 lines of this page:
+  Exceptionally Interesting
+  Jobs in STEM?
+  What comes to mind when you think of a job in Science,
+  Technology, Engineering, or Math (STEM)? Do you asso-
+  ciate STEM jobs with lab coats and whiteboards filled
+  with equations? How about skate park half-pipes, food
+  trends, video games, and fireworks?
+  Many jobs in STEM may be unexpected and reflect
+  the dynamic nature of work that needs to be accomplished
+  by organizations. For example, a skate park engineer’s job
+
+=== PDF page 89 ===
+Matched line: 'Chapter 3. Analyzing Work and Designing Jobs' (line 1 on page)
+First 10 lines of this page:
+  Chapter 3. Analyzing Work and Designing Jobs
+  65
+  Cun 22 ll eta
+  Rea
+  Job Analysis Provides Information for HR Processes
+  Work
+  Re-design
+  Job
+  Evaluation
+  Workforce
+
+=== PDF page 91 ===
+Matched line: 'Chapter 3. Analyzing Work and Designing Jobs' (line 1 on page)
+First 10 lines of this page:
+  Chapter 3. Analyzing Work and Designing Jobs
+  67
+  FicURE
+  3.3
+  Sample Job Description
+  FINANCIAL AND INVESTMENT ANALYSTS (NOC 1112)
+  Financial and investment analysts collect and analyze financial information such as
+  economic forecasts, trading volumes and the movement of capital, financial backgrounds
+  of companies, historical performances, and future trends of stocks, bonds, and other
+  investment instruments to provide financial and investment or financing advice for their
+
+=== PDF page 93 ===
+Matched line: 'Chapter 3)' (line 74 on page)
+First 10 lines of this page:
+  about jobs in Canada’s labour market. The NOC is a tool
+  that uses a four-digit code to classify occupations based on
+  the types and levels of skills required. The NOC classifica-
+  tion system supports the needs of employers and individ-
+  ual job seekers, as well as career counsellors, statisticians,
+  and labour market analysts, by providing a consistent way
+  to identify and interpret the nature of work. A recent addi-
+  tion to the site is a publication titled Job Descriptions: An
+  Employers’ Handbook that may be particularly helpful to
+  managers and human resource professionals.
+
+=== PDF page 95 ===
+Matched line: 'Chapter 3' (line 38 on page)
+First 10 lines of this page:
+  With global competitive pressures, automation, and
+  weak demand growth, one corporate change that has
+  affected many organizations is downsizing. Research sug-
+  gests that successful downsizing efforts almost always
+  entail changes in the nature of jobs, not just their number.
+  Jobs that have survived downsizing tend to have a broader
+  scope of responsibilities coupled with less supervision. In
+  some Cases, organizations preserve jobs by asking employ-
+  ees to get the same amount of work done during fewer
+  hours for less pay (because of the reduced hours). These
+
+=== PDF page 96 ===
+Matched line: '(Chapter 8 discusses total rewards.)' (line 24 on page)
+First 10 lines of this page:
+  72
+  PART 2.
+  Preparing for and Acquiring Human Resources
+  of classical industrial engineering,
+  which looks for the simplest way
+  to structure work in order to maxi-
+  mize efficiency. Typically, apply-
+  ing industrial engineering to a job
+  reduces the complexity of the work,
+  making
+
+=== PDF page 97 ===
+Matched line: 'Chapter 3.' (line 71 on page)
+First 10 lines of this page:
+  Statistical test results into business solutions. Now imag-
+  ine employees in jobs like this working in an environment
+  such as Square Root, a tech company that analyzes data to
+  help businesses improve their performance. Square Root’s
+  policies are based on a belief that employees do their best
+  work when they have autonomy concerning their schedule
+  and other working conditions. Its employees say the com-
+  pany provides great challenges and a great atmosphere—
+  and their co-workers go above and beyond to meet goals.”
+  Applications of the job characteristics approach to
+
+=== PDF page 98 ===
+Matched line: 'Chapter 1, types of flexibility include flextime and job' (line 12 on page)
+First 10 lines of this page:
+  74
+  PART 2.
+  Preparing for and Acquiring Human Resources
+  member performs a variety of tasks and when team mem-
+  bers view their effort as significant.
+  Flexible Work Schedules
+  One way an organization can give employees some say in
+  how their work is structured is to offer flexible work
+  schedules. Depending on the requirements of the organiza-
+  tion and the individual jobs, organizations may be able to
+
+=== PDF page 99 ===
+Matched line: 'Chapter 3.' (line 32 on page)
+First 10 lines of this page:
+  hours in order to make time for outside appointments, fam-
+  ily activities, or volunteer work. A work schedule that
+  allows time for personal, community, and family interests
+  can be extremely motivating for some employees.
+  Job sharing is a work option
+  in which two part-time employees
+  carry out the tasks associated with a
+  1 anerig
+  4
+  :
+
+=== PDF page 101 ===
+Matched line: 'Chapter 3. Analyzing Work and Designing Jobs' (line 30 on page)
+First 10 lines of this page:
+  the worker by structuring the physical work environment
+  around the way the human body works. Ergonomics there-
+  fore focuses on outcomes
+  such as reducing physical
+  fatigue, aches and pains, and health complaints. Ergo-
+  nomic research includes the context in which work takes
+  place, such as the lighting, space, and hours worked.”?
+  Ergonomic job design has been applied in redesign-
+  ing equipment used in jobs that are physically demand-
+  ing. Such redesign is often aimed at reducing the physical
+
+=== PDF page 103 ===
+Matched line: 'Chapter 3.' (line 48 on page)
+First 10 lines of this page:
+  some control and social support, especially if they enjoy
+  learning and are unafraid of making mistakes.*? Because
+  of this drawback to simplifying jobs, it can be most ben-
+  eficial to simplify jobs where employees will most appre-
+  ciate having the mental demands reduced (as in a job that
+  is extremely challenging) or where the costs of errors are
+  severe (as in the job of a surgeon or air-traffic controller),
+  Analysis of a job’s cognitive demands also provides valu-
+  able information to support employees’ mental health and
+  well-being (see Did You Know’)
+
+=== PDF page 105 ===
+Matched line: 'Chapter 3. Analyzing Work and Designing Jobs' (line 1 on page)
+First 10 lines of this page:
+  Chapter 3. Analyzing Work and Designing Jobs
+  81
+  CASE STUDY: EVIDENCE-BASED HRM
+  Analytics Drive Success at United Parcel Service (UPS)
+  United Parcel Service (UPS) is one of the the world’s
+  largest package-shipping companies, so saving a tiny bit
+  of gasoline on every truck route can generate enormous
+  savings, in both expenses and impact on the environment.
+  For example, reducing each route by 1.6 km (1 mile) per
+  day for a year can save the company about 162 million
+
+=== PDF page 107 ===
+Matched line: 'CHAPTER 4 |' (line 2 on page)
+First 10 lines of this page:
+  F
+  CHAPTER 4 |
+  4
+  Planning for and Recruiting
+  Human Resources
+  WHAT DO ! NEED TO KNOW?
+  After reading this chapter, you should be able to:
+  LO1
+  LO2
+  Discuss how to align workforce planning with the organization’s strategy.
+
+=== PDF page 108 ===
+Matched line: 'Chapter 1 as identifying the numbers and types of employ-' (line 51 on page)
+First 10 lines of this page:
+  84
+  PART 2.
+  Preparing for and Acquiring Human Resources
+  Balancing Labour Demand
+  and Supply: Uber and Lyft
+  When they discuss their business model, representatives
+  for Uber tend to focus on the technology e.g. the app that
+  links riders with drivers and, hence, quickly and seamlessly
+  connects a specific demand for labour with a specific sup-
+  ply of labour. Beyond the technology though, a big part of
+
+=== PDF page 109 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  85
+  Overview of the Workforce Planning Process
+  Forecasting
+  labour demand
+  Determining labour
+  surplus or shortage
+  Goal setting and
+  strategic planning
+
+=== PDF page 111 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  87
+  TABLE 4.2
+  will likely increase the number of employees qualified
+  for new openings. Forecasts of labour supply also should
+  take into account the organization’s pool of skills. Many
+  organizations include inventories of employees’ skills in
+  an HR database. When the organization forecasts that it
+  will need new skills in the future, planners can consult
+
+=== PDF page 113 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  89
+  campaign can also hurt the company’s image in the labour
+  market, so it is harder to recruit employees later.
+  Many problems with downsizing can be reduced
+  with better planning. Instead of slashing jobs across the
+  board, successful downsizing makes strategic cuts that
+  improve the company’s competitive position, and man-
+  agement addresses the problem of employees becoming
+
+=== PDF page 115 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  91
+  Boeing offers a cautionary tale with its ambitious
+  plan to have a worldwide network of suppliers build
+  all the components
+  for its 787 Dreamliner.
+  The
+  project eventually fell three years behind schedule
+  and went billions of dollars over budget as various
+
+=== PDF page 117 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  93
+  pattern is likely to continue, the organization may need to
+  set goals and timetables for changing. The planning pro-
+  cess may identify new strategies for recruitment or selec-
+  tion. The organization carries out these HR strategies and
+  evaluates their success.
+  Succession Planning: A Type
+  of Workforce Planning
+
+=== PDF page 117 ===
+Matched line: 'Chapter 6.' (line 84 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  93
+  pattern is likely to continue, the organization may need to
+  set goals and timetables for changing. The planning pro-
+  cess may identify new strategies for recruitment or selec-
+  tion. The organization carries out these HR strategies and
+  evaluates their success.
+  Succession Planning: A Type
+  of Workforce Planning
+
+=== PDF page 119 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  95
+  of the vacancy may be more important than recruiters or
+  recruiting sources for predicting job choice. Several poli-
+  cies are especially relevant to recruitment:
+  e Internal versus external recruiting—Organizations
+  with policies to “promote from within” try to fill
+  vacancies
+  by recruiting
+
+=== PDF page 121 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  97
+  AICI & 2 | eee
+  sinatra
+  a en
+  Sources Used for Recruiting Professionals (Technical and Non-Technical)
+  Corporate website
+  Internal postings
+  Linkedin.com
+
+=== PDF page 123 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  99
+  deciding whether to apply. In that context, gaining the
+  interest of qualified workers requires straightforward,
+  clear job descriptions that highlight what is meaningful
+  about the position.”!
+  Most large companies and many smaller ones also
+  make career information available at their own websites.
+  To make that information easier to find, they may regis-
+
+=== PDF page 125 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  101
+  not-yet-employed individuals there. Job fairs are an inex-
+  pensive means of generating an on-campus presence. They
+  can provide one-on-one dialogue with students; however,
+  it is also important to offer a candidate experience that
+  includes the ability to apply for jobs with as few clicks as
+  possible. Encouraging texting is another way for recruiters
+  to demonstrate they are authentic and willing to answer
+
+=== PDF page 127 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  103
+  a vacancy to a recruit has merit. However, the belief that
+  informing people about the negative characteristics of
+  the job will totally “inoculate” them to such characteris-
+  tics seems unwarranted, based on the research conducted
+  to date.
+  We conclude that an organization’s decisions about
+  policies that directly affect the job’s attributes (pay, secu-
+
+=== PDF page 129 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  8. Discuss the relative merits of internal versus exter-
+  nal recruitment. Give an example of a situation in
+  which each of these approaches might be particularly
+  effective.
+  9. Recruiting people for jobs that require global assign-
+  ments is increasingly important for many organi-
+  zations. Where might an organization go to recruit
+  people interested in such assignments?
+  Planning for and Recruiting Human Resources
+
+=== PDF page 131 ===
+Matched line: 'Chapter 4' (line 1 on page)
+First 10 lines of this page:
+  Chapter 4
+  Planning for and Recruiting Human Resources
+  107
+  to the company’s career website, its YouTube channel,
+  Questions
+  and other candidate- and employee-targeted sites such
+  as Glassdoor in concert with launching an optimized job
+  1, Based on this description, what are some advantages
+  search site. The most sophisticated users of social media
+  of finding a candidate via social media compared with
+
+=== PDF page 132 ===
+Matched line: 'CHAPTER 5' (line 1 on page)
+First 10 lines of this page:
+  CHAPTER 5
+  Selecting Employees
+  WHAT DO | NEED TO KNOW?
+  After reading this chapter, you should be able to:
+  LO1
+  Identify the elements and legal requirements of the selection process.
+  LO2
+  Define ways to measure the success of a selection method.
+  LOS
+  Compare some of the common methods used for obtaining and verifying
+
+=== PDF page 133 ===
+Matched line: 'Chapter 5' (line 55 on page)
+First 10 lines of this page:
+  Valuing Workers with Autism
+  Shawn Bolshin is a 30-year old university graduate with
+  exemplary analytical
+  skills. He has been working in
+  Toronto for CIBC for the past two years in their informa-
+  tion security department and is considered a “rising star”
+  due to his knack for uncovering difficult to spot security
+  breaches. “I’m not, like, that different,’ Shawn says hes-
+  itantly, “but I do have that ability to see those details and
+  things and have a much tighter focus on things.” Bolshin
+
+=== PDF page 134 ===
+Matched line: 'Chapter 3, we explained that a job specifications identifies' (line 48 on page)
+First 10 lines of this page:
+  110
+  PART 2.
+  Preparing for and Acquiring Human Resources
+  Mice at st ee
+  Steps in the Selection Process
+  screening
+  Applications
+  Testing and
+  Reviewing
+  Work Samples
+
+=== PDF page 135 ===
+Matched line: 'Chapter 5' (line 29 on page)
+First 10 lines of this page:
+  relationship with the potential employer—even when they
+  are not hired or become a finalist for the job. However,
+  when job seekers have a negative “1 Star” candidate expe-
+  rience, 46 percent will sever their business relationship
+  with the potential employer. The Evidenced-based HRM
+  case at the end of the chapter examines research conducted
+  by IBM’s Smarter Workforce Institute about the impact of
+  candidate experience and how Johnson & Johnson recently
+  transformed its talent acquisition process to provide a
+  transparent and compelling experience for job seekers.°
+
+=== PDF page 137 ===
+Matched line: 'Chapter 5' (line 2 on page)
+First 10 lines of this page:
+  HR How-To
+  Chapter 5
+  Selecting Employees
+  ins
+  Using Data Analytics to Support Fair Hiring Decisions
+  As companies
+  get increasingly
+  sophisticated
+  about collecting and analyzing data, they can
+  apply those skills to employee selection. But the
+
+=== PDF page 139 ===
+Matched line: 'Chapter 5' (line 103 on page)
+First 10 lines of this page:
+  GPA and sales representatives’ performance is much lower.
+  In this hypothetical example, the intelligence test is more
+  valid than GPA for predicting success at this job.
+  Two kinds of research are possible for arriving at
+  criterion-related validity:
+  1. Predictive
+  validation.
+  This
+  research uses the test scores
+  of all applicants
+
+=== PDF page 141 ===
+Matched line: 'Chapter 5' (line 67 on page)
+First 10 lines of this page:
+  Applications
+  Asking each applicant to fill out an employment appli-
+  cation is a low-cost way to gather basic data from many
+  applicants. It also ensures that the organization has cer-
+  tain standard categories of information, such as mailing
+  address and employment history, from every applicant.
+  Employment applications include areas for applicants
+  to provide several types of information:
+  e Contact information. The employee’s name, address,
+  contact number, and email address.
+
+=== PDF page 143 ===
+Matched line: 'Chapter 5' (line 56 on page)
+First 10 lines of this page:
+  “Education fraud is the most common,” he says, adding
+  that people lie about the degree they received or the insti-
+  tutions they attend. There is also the “diploma mill issue”:
+  people state degrees they ordered online from phony insti-
+  tutions. “There’s quite a bit of that.”?’
+  Also fuelling this growing use of background checks
+  are applicants using complex and high-tech means to
+  fraudulently impress employers. For example, a coun-
+  terfeiting ring operating from a house
+  in Markham,
+
+=== PDF page 145 ===
+Matched line: 'Chapter 5' (line 1 on page)
+First 10 lines of this page:
+  Chapter 5
+  Selecting Employees
+  Sun 52 ha ce ae
+  Sample Question from the Public Service Commission of Canada’s General Competency Test:
+  Level 1 (GCT1)
+  Government
+  Gouvernement
+  of Canada
+  du Canada
+  MEMORANDUM
+
+=== PDF page 147 ===
+Matched line: 'Chapter 5' (line 66 on page)
+First 10 lines of this page:
+  Employers also have to keep in mind that testing
+  will not uncover all problems. One recent concern is that
+  addictive drug use increasingly relates to legal prescription
+  painkillers and the legalization of recreational cannabis
+  has posed a variety of issues for organizations to navigate
+  including the need for clear policies.
+  The approach to pre-employment substance testing
+  in Western Canada has tended to emphasize safety and
+  has directly conflicted with Ontario Court of Appeal
+  decisions. For example, the Alberta Court of Appeal
+
+=== PDF page 149 ===
+Matched line: 'Chapter 5' (line 49 on page)
+First 10 lines of this page:
+  Advantages and Disadvantages
+  of Traditional Interviewing
+  The wide use of traditional in-person interviewing
+  is
+  not surprising. People naturally want to see prospective
+  employees firsthand. As we noted in Chapter 1, the top
+  qualities that employers seek in new hires include commu-
+  nication skills and interpersonal skills. Talking face to face
+  can provide evidence of these skills. Interviews can give
+  insights into candidates’ personalities and interpersonal
+
+=== PDF page 151 ===
+Matched line: 'Chapter 5' (line 102 on page)
+First 10 lines of this page:
+  The usual process for arriving at a selection decision
+  is to gradually narrow the pool of candidates for each job.
+  This approach, called the multiple-
+  hurdle model, is based on a process
+  such as the one shown earlier in
+  Figure 5.1. Each stage of the process
+  is a hurdle, and candidates who
+  overcome a hurdle continue to the
+  next
+  stage
+
+=== PDF page 153 ===
+Matched line: 'Chapter 5' (line 27 on page)
+First 10 lines of this page:
+  LO2 Define ways to measure the success of a selection
+  method.
+  One criterion is reliability, which indicates the method is
+  free from random error, so that measurements are consis-
+  tent. A selection method should also be valid, meaning
+  that performance on the measure (such as a test score) is
+  related to what the measure is designed to assess (such as
+  job performance). A selection method also should be gen-
+  eralizable, so that it applies to more than one specific situ-
+  ation. Each selection method should have utility, meaning
+
+=== PDF page 155 ===
+Matched line: 'Chapter 5' (line 19 on page)
+First 10 lines of this page:
+  Johnson & Johnson, the global pharmaceutical and
+  health care company, recently conducted a series of sur-
+  veys and focus groups and learned that candidates expe-
+  rienced frustration
+  with their hiring process.
+  Sjored
+  Gehring, global vice-president of talent acquisition, and
+  his team established a bold vision to reimagine their tal-
+  ent acquisition process. That was no small task given that
+  Johnson & Johnson receives approximately one million
+
+=== PDF page 157 ===
+Matched line: 'CHAPTER 6' (line 2 on page)
+First 10 lines of this page:
+  Talent Management
+  CHAPTER 6
+  Training, Learning, and Development
+  CHAPTER 7
+  Managing Employees’ Performance
+  mae
+  =
+  J.
+  3
+  OW
+
+=== PDF page 157 ===
+Matched line: 'CHAPTER 7' (line 4 on page)
+First 10 lines of this page:
+  Talent Management
+  CHAPTER 6
+  Training, Learning, and Development
+  CHAPTER 7
+  Managing Employees’ Performance
+  mae
+  =
+  J.
+  3
+  OW
+
+=== PDF page 158 ===
+Matched line: 'CHAPTER 6 ,' (line 2 on page)
+First 10 lines of this page:
+  |
+  CHAPTER 6 ,
+  6
+  Training, Learning, and Development
+  WHAT DO! NEED TO KNOW?
+  After reading this chapter, you should be able to:
+  LO1
+  LO2
+  Discuss how to link training, learning, and development to organizational needs
+  and strategy.
+
+=== PDF page 159 ===
+Matched line: 'Chapter 6' (line 44 on page)
+First 10 lines of this page:
+  The Blanket Exercise—
+  An Indigenous Learning
+  Experience
+  The Blanket Exercise, created by social justice group
+  KAIROS Canada, is now part of the training of all RCMP
+  cadets. The Blanket Exercise is a “powerful tool in build-
+  ing empathy and opening minds and hearts to ongoing
+  learning about First Nations, Inuit, and Metis people.” In
+  the 90-minute exercise, blankets, representing the land
+  that eventually became Canada, are laid out on the floor
+
+=== PDF page 161 ===
+Matched line: 'Chapter 6' (line 2 on page)
+First 10 lines of this page:
+  Did You Know?
+  Chapter 6
+  Training, Learning, and Development
+  137
+  More Learning Time in Companies Exhibiting a Strong Learning Culture
+  A recent Conference Board of Canada survey
+  found that organizations committed to learning
+  and development invested both more money and
+  time in learning. Organizations exhibiting strong
+  learning cultures reported the highest average
+
+=== PDF page 163 ===
+Matched line: 'Chapter 6' (line 1 on page)
+First 10 lines of this page:
+  Chapter 6
+  Training, Learning, and Development
+  139
+  CICURE 6.2 | Neg ERE 5 1 er a ra eae
+  The Needs Assessment Process
+  Reasons or “pressure points” What is the context?
+  ¢ Legislation
+  ¢ Lack of basic skills
+  e Poor performance
+  e New technology
+
+=== PDF page 165 ===
+Matched line: 'Chapter 6' (line 39 on page)
+First 10 lines of this page:
+  In-House or Contracted Out?
+  An organization can provide an effective training program,
+  even if it lacks expertise in training. Many companies and
+  consultants provide training services to organizations.
+  Colleges, universities, technical institutes, and polytech-
+  nics often work with employers to train employees in a
+  variety of skills.
+  To select a training service, an organization can post
+  a request for proposal (RFP), a document outlining the
+  type of service needed, the type and number of references
+
+=== PDF page 167 ===
+Matched line: 'Chapter 6' (line 61 on page)
+First 10 lines of this page:
+  © The McGraw-Hill Companies, Inc./Lars A. Niki, photographer/DAL
+  Mobile technology is useful for not only entertainment but also
+  employees who are need to be in touch with the office. Smart-
+  phones, tablets, and laptop computers give employees additional
+  flexibility in how and when they participate in training programs.
+  humour or music, and drama that distracts the key points.
+  Well-written and carefully produced content can over-
+  come such problems.
+  Hands-on Methods
+  Hands-on
+
+=== PDF page 169 ===
+Matched line: 'Chapter 6' (line 57 on page)
+First 10 lines of this page:
+  business. The types of decisions that participants make in
+  games include all aspects of management practice, includ-
+  ing human resource management (such as pay increases),
+  marketing (the price to charge for a new product), and
+  finance (financing the purchase of new technology). A
+  realistic game or case may stimulate more learning than
+  presentation
+  methods
+  (such
+  as classroom
+
+=== PDF page 171 ===
+Matched line: 'Chapter 6' (line 74 on page)
+First 10 lines of this page:
+  central place for all of the company’s
+  learning programs
+  and
+  materials,
+  including
+  user-generated
+  content
+  from
+  managers,
+  employees,
+
+=== PDF page 173 ===
+Matched line: 'Chapter 6' (line 2 on page)
+First 10 lines of this page:
+  TABLE 6.3
+  Chapter 6
+  Training, Learning, and Development
+  149
+  Ways That Training Helps Employees Learn
+  Training Activity
+  Communicate the learning
+  objective(s)
+  Use distinctive, attention-
+  getting messages
+
+=== PDF page 175 ===
+Matched line: 'Chapter 6' (line 1 on page)
+First 10 lines of this page:
+  Chapter 6
+  Training, Learning, and Development
+  151
+  Measurement of Training Effectiveness Earns a Bad Grade
+  In a recent survey of more than 200 chief learn-
+  ing officers, roughly three-quarters reported a
+  need to improve their company’s measurement
+  of training effectiveness. Worse, the numbers
+  have been heading in the wrong direction. In four
+  years of asking this question, the researchers
+
+=== PDF page 177 ===
+Matched line: 'Chapter 6' (line 77 on page)
+First 10 lines of this page:
+  chatbot-initiated conversation with a new employee near
+  the conclusion of their first week on the job:°°
+  Chatbot:
+  “Hi Ragbavi, I just wanted to check in
+  on your first week! Were you able to complete your
+  onboarding paperwork?”
+  Raghavi: “I did. What else do I need to get done
+  before my first month is up?”
+  Chatbot: “Nice! Way to take the initiative. Before
+  your first month is over, you also need to finish your
+
+=== PDF page 179 ===
+Matched line: 'Chapter 6' (line 98 on page)
+First 10 lines of this page:
+  employees’ strengths and areas for development. Orga-
+  nizations also use assessment to identify leaders with
+  potential to move into higher-level executive positions.
+  Organizations that assign work to teams may use assess-
+  ment to identify the strengths and weaknesses of individ-
+  ual team members and the effects of the team members’
+  decision-making and communication styles on the team’s
+  performance.
+  For assessment to support development, the infor-
+  mation
+
+=== PDF page 181 ===
+Matched line: 'Chapter 6' (line 29 on page)
+First 10 lines of this page:
+  Job Experiences
+  Most employee development occurs
+  through job experiences®® the com-
+  bination of relationships, problems,
+  demands, tasks, and other features
+  of an employee’s job. Using job
+  experiences
+  for employee
+  devel-
+  opment assumes that development
+
+=== PDF page 183 ===
+Matched line: 'Chapter 6' (line 50 on page)
+First 10 lines of this page:
+  Interpersonal Relationships
+  Employees can also develop skills and increase their
+  knowledge about the organization and its customers by
+  interacting with a more experienced organization mem-
+  ber. Increasingly, these interactions are also taking place
+  online with social media tools (e.g., LinkedIn offers dis-
+  cussion groups as well as a multitude of groups to follow).
+  Two types of relationships used for employee devel-
+  opment are mentoring and coaching.
+  Mentors
+
+=== PDF page 185 ===
+Matched line: 'Chapter 6' (line 42 on page)
+First 10 lines of this page:
+  OS Career Management
+  Systems
+  Employee development is most likely to meet the orga-
+  nization’s needs if it is part of a human resource system
+  of career management. In practice, organizations’ career
+  management systems vary. Some rely heavily on informal
+  relationships, while others are sophisticated programs. As
+  shown in Figure 6.7, a basic career management system
+  involves four steps: data gathering, feedback, goal setting,
+  and action planning and follow-up. Ways to make this sys-
+
+=== PDF page 187 ===
+Matched line: 'Chapter 6' (line 1 on page)
+First 10 lines of this page:
+  Chapter 6
+  Training, Learning, and Development
+  163
+  FIGURE 6.8
+  Development Plan
+  —
+  Name:
+  Title: Project Manager
+  Immediate Manager:
+  Competencies
+
+=== PDF page 189 ===
+Matched line: 'Chapter 6' (line 16 on page)
+First 10 lines of this page:
+  training program, implements the program, and evaluates
+  the results based on effectiveness and efficiency.
+  LO3 Describe methods for employee onboarding and
+  supporting diversity and inclusion.
+  Employee orientation and onboarding is designed to pre-
+  pare new employees to perform their job effectively, learn
+  about the organization, and establish work relationships.
+  To achieve the benefits of diversity, learning initiatives
+  may be used to support the provision of inclusive work
+  environments where all employees are able to contribute
+
+=== PDF page 191 ===
+Matched line: 'Chapter 6' (line 11 on page)
+First 10 lines of this page:
+  diversity and inclusion efforts, which helps attract talented
+  employees by signalling that the company cares about the
+  well-being of all of its employees. For example, Sodexo
+  Canada continues to receive recognition for its efforts,
+  earning recognition in 2018 by MediaCorp. as one of
+  Canada’s Best Diversity Employers—Sodexo Canada has
+  received this distinction for five consecutive years. Sodexo
+  is also a Gold Certified Progressive Aboriginal Relations
+  (PAR) Company, and has been a Top Employer for Young
+  People for six years running.
+
+=== PDF page 192 ===
+Matched line: 'CHAPTER 7' (line 1 on page)
+First 10 lines of this page:
+  CHAPTER 7
+  Managing Employees’ Performance
+  WHAT DO | NEED TO KNOW?
+  After reading this chapter, you should be able to:
+  LO1
+  LO2
+  LO3
+  LO4
+  LO5
+  Describe the relevance, purpose, and criteria associated with an effective
+
+=== PDF page 193 ===
+Matched line: 'Chapter 7 Managing Employees’ Performance' (line 59 on page)
+First 10 lines of this page:
+  Changing Performance
+  Management at Deloitte
+  As a business consulting firm, Deloitte has been well aware
+  of managers’ complaints about performance management
+  systems: they’re too slow, they don’t promote employee
+  engagement, and the connection to business results is hard
+  to find. Deloitte’s HR leaders had to admit that those crit-
+  icisms might apply to the firm’s own performance man-
+  agement process. Objectives were set for each employee
+  at the beginning of the year. Managers rated employee
+
+=== PDF page 195 ===
+Matched line: 'Chapter 7' (line 3 on page)
+First 10 lines of this page:
+  FicURE
+  7.2
+  Chapter 7
+  Managing Employees’ Performance
+  171
+  How Performance Management Has Changed
+  (percentage of organizations responding)
+  Increased focus on coaching, ongoing feedback, I,
+  behavioural-based feedback
+  Focus on individual development and performance
+
+=== PDF page 197 ===
+Matched line: 'Chapter 7 Managing Employees’ Performance' (line 63 on page)
+First 10 lines of this page:
+  well-planned calls. Information that is not gathered but
+  is relevant represents a deficiency of the performance
+  measure. For example, suppose a company measures
+  whether employees have good attendance records
+  but not whether they work efficiently. This limited
+  performance appraisal is unlikely to provide a full
+  picture of employees’ contribution to the company.
+  Performance
+  measures
+  should
+
+=== PDF page 199 ===
+Matched line: 'Chapter 7 Managing Employees’ Performance' (line 1 on page)
+First 10 lines of this page:
+  Chapter 7 Managing Employees’ Performance
+  175
+  TABLE 7.1
+  Basic Approaches to Performance Management
+  Criteria
+  Validity
+  Reliability
+  ‘Acceptability
+  Specificity
+  Approach
+
+=== PDF page 201 ===
+Matched line: 'Chapter 7' (line 4 on page)
+First 10 lines of this page:
+  FicURE
+  7.6
+  Example of a Graphic Rating Scale
+  Chapter 7
+  Managing Employees’ Performance
+  177
+  The following areas of performance are significant to most positions. Indicate your assessment of
+  performance on each dimension by circling the appropriate rating.
+  PERFORMANCE
+  DIMENSIONS
+
+=== PDF page 203 ===
+Matched line: 'Chapter 7 Managing Employees’ Performance' (line 46 on page)
+First 10 lines of this page:
+  A
+  behavioural
+  observation
+  5
+  cs
+  i
+  behavioural
+  scale (BOS) is a variation of a BARS.
+  eaeoation
+  Like a BARS, a BOS is developed
+
+=== PDF page 205 ===
+Matched line: 'Chapter 7' (line 32 on page)
+First 10 lines of this page:
+  2. Managers and their employees work together to set
+  the goals.
+  3. The manager gives objective feedback through the
+  rating period to monitor progress toward the goals.
+  The two right-hand columns in Table 7.2 are examples
+  of feedback given after six months.
+  MBO can have a very positive effect on an organiza-
+  tion’s performance. In 70 studies of MBO’s performance,
+  68 showed that productivity improved.*? The productivity
+  gains tended to be greatest when top management was
+
+=== PDF page 207 ===
+Matched line: 'Chapter 7' (line 52 on page)
+First 10 lines of this page:
+  behaviour while the manager is there. The manager cannot
+  observe how they perform at other times.
+  Peers
+  Another source of performance information is the employ-
+  ee’s peers or co-workers. Peers are an excellent source of
+  information about performance in a job where the super-
+  visor does not often observe the employee. Examples
+  include law enforcement and sales. For these and other
+  jobs, peers may have the most opportunity to observe the
+  employee in day-to-day activities. Peers have expert know-
+
+=== PDF page 209 ===
+Matched line: 'Chapter 7 Managing Employees’ Performance' (line 48 on page)
+First 10 lines of this page:
+  Types of Rating Errors
+  Table 7.3 shows the different types of rating errors. The
+  “similar to me” error is based on stereotypes the rater has
+  about how individuals with certain characteristics
+  are
+  expected to perform.*? Leniency, strictness, and central
+  tendency are known as distributional errors because the
+  rater tends to use only one part of the rating scale.
+  Appraisal
+  politics
+
+=== PDF page 211 ===
+Matched line: 'Chapter 7' (line 81 on page)
+First 10 lines of this page:
+  expectations. Employees should instead receive feedback
+  so often that they know what the manager will say during
+  formal annual/semi-annual performance evaluations.
+  Generational differences in the workplace may con-
+  tribute to different perspectives about what is timely feed-
+  back. Millennials may expect immediate feedback because
+  their reference points are often built around short time
+  frames and accomplishments.°! Ernst and Young created
+  an online “Feedback Zone,” where employees can request
+  or submit performance feedback at any time beyond the
+
+=== PDF page 213 ===
+Matched line: 'Chapter 7 Managing Employees’ Performance' (line 2 on page)
+First 10 lines of this page:
+  HR How-To
+  Chapter 7 Managing Employees’ Performance
+  189
+  Discussing Employee Performance
+  Employees and managers often dread feedback
+  sessions, because they expect some level of criti-
+  cism, and criticism feels uncomfortable. However,
+  there are ways to structure communication about
+  employee performance so that it is constructive.
+  Here are some ideas for talking about employee
+
+=== PDF page 215 ===
+Matched line: 'Chapter 7 Managing Employees’ Performance' (line 59 on page)
+First 10 lines of this page:
+  “reasonable criticism.” The Ontario Court of Appeal pro-
+  vided guidance to what a supervisor can and cannot do
+  in the context of performance appraisal and performance
+  improvement in the case of Viren Shah, a 12-year employee
+  at Xerox Canada. The court determined that Shah’s man-
+  ager passed beyond the “bounds of reasonableness” when
+  Shah received critical performance reviews that were not
+  based on any substantiated concerns and the manager’s
+  behaviour was described as “authoritarian, impatient, and
+  intolerant.”°° As discussed in Chapter 2, provinces includ-
+
+=== PDF page 217 ===
+Matched line: 'Chapter 7 Managing Employees’ Performance' (line 8 on page)
+First 10 lines of this page:
+  an employee’s performance? What would you
+  recommend to minimize this problem?
+  8. Describe a time when you received performance
+  feedback that resulted in you feeling valued. What
+  aspects of effective performance feedback discussed
+  in this chapter contributed to this positive feedback
+  experience?
+  Chapter 7 Managing Employees’ Performance
+  193
+  9. How can the use of technology enhance the perform-
+
+=== PDF page 219 ===
+Matched line: 'CHAPTER 8' (line 3 on page)
+First 10 lines of this page:
+  Compensating and
+  Rewarding Human Resources
+  CHAPTER 8
+  Total Rewards
+  oo
+  il
+  oF f 12?
+  O
+  een d = i
+  Tae
+
+=== PDF page 220 ===
+Matched line: 'CHAPTER 8 ,' (line 1 on page)
+First 10 lines of this page:
+  CHAPTER 8 ,
+  8
+  Total Rewards
+  WHAT DO! NEED TO KNOW?
+  After reading this chapter, you should be able to:
+  LO1
+  LO2
+  LO3
+  LO4
+  Discuss how organizations implement a “total rewards” approach to
+
+=== PDF page 221 ===
+Matched line: 'Chapter 8' (line 68 on page)
+First 10 lines of this page:
+  Cisco Provides Time2Give
+  Time2Give
+  is the formal volunteering policy of the
+  global IT and networking firm Cisco. The policy pro-
+  vides all full-time employees with five days of paid time
+  each year to volunteer at a non-profit organization or
+  charity of their choice. David Heather, vice-president of
+  HR for Canada explains, “Employees were volunteering
+  on their own time and taking some time off personally.
+  We wanted to make the commitment to our employees
+
+=== PDF page 223 ===
+Matched line: 'Chapter 8' (line 5 on page)
+First 10 lines of this page:
+  Compensation
+  Total Rewards Inventory
+  Benefits
+  Work/Life
+  Chapter 8
+  Total Rewards
+  Performance &
+  Recognition
+  Development &
+  Career Opportunities
+
+=== PDF page 225 ===
+Matched line: 'Chapter 8' (line 81 on page)
+First 10 lines of this page:
+  across
+  federal, provincial, and territorial jurisdictions,
+  a common core of legal requirements including human
+  rights legislation, employment labour standards acts, and
+  pay equity legislation exists. Ontario’s pay transparency
+  legislation is also provided as an illustrative example of an
+  emerging attention.
+  e Human rights legislation—Employers may not base
+  differences in rewards on an employee’s age, sex, race,
+  or other prohibited ground of discrimination. Any
+
+=== PDF page 227 ===
+Matched line: 'Chapter 8' (line 50 on page)
+First 10 lines of this page:
+  typical way of doing this is witha job
+  lob evaluation
+  evaluation, an administrative proce-
+  yn administrative
+  dure for measuring the relative inter-
+  procedure for
+  measuring the
+  relative internal
+  worth of the orga-
+  nization’s jobs.
+
+=== PDF page 229 ===
+Matched line: 'Chapter 8' (line 13 on page)
+First 10 lines of this page:
+  Pay Grades
+  A large organization
+  could have
+  hundreds or even thousands of dif-
+  ferent jobs. Setting a pay rate for
+  each job would be extremely com-
+  pay grades Sets
+  of jobs having
+  similar worth or
+  content, grouped
+
+=== PDF page 231 ===
+Matched line: 'Chapter 8' (line 1 on page)
+First 10 lines of this page:
+  Chapter 8
+  Total Rewards
+  207
+  Finding a Compa-Ratio
+  Pay Grade: 1
+  Midpoint of Range: $4,675 per month
+  Salaries of Employees in Pay Grade
+  Employee 1
+  $5,306
+  Employee 2
+
+=== PDF page 233 ===
+Matched line: 'Chapter 8' (line 37 on page)
+First 10 lines of this page:
+  mechanic finishes
+  the tune-up
+  in 1.5 hours, the .
+  mechanic receives 2 hours of pay for 1.5 hours
+  worked. Working that fast over the course of a week
+  could add significantly to the mechanic’s pay. In
+  terms of pros and cons, standard hour plans are much
+  like piecework plans. They encourage employees to
+  work as fast as they can, but not necessarily to care
+  about quality or customer service.
+
+=== PDF page 235 ===
+Matched line: 'Chapter 8' (line 72 on page)
+First 10 lines of this page:
+  Both types of incentives have the advantage that they
+  encourage group or team members to cooperate and collab-
+  orate so that they can achieve their goal. However, depend-
+  ing on the reward system, competition among individuals
+  may be replaced by competition among teams. Competition
+  may be healthy in some situations, as when teams try to
+  outdo one another in satisfying customers. On the down-
+  side, competition may also prevent necessary cooperation
+  among teams. To avoid this, the organization should care-
+  fully set the performance goals for these incentives so that
+
+=== PDF page 237 ===
+Matched line: 'Chapter 8' (line 2 on page)
+First 10 lines of this page:
+  HR How-To
+  Chapter 8
+  Total Rewards
+  213
+  Rewarding Workers When Raises Are Not an Option
+  You want to reward good performance,
+  but
+  there’s hardly any money in the budget for raises
+  and bonuses. That’s the situation facing many HR
+  managers in today’s business climate. Here are
+
+=== PDF page 239 ===
+Matched line: 'Chapter 8' (line 55 on page)
+First 10 lines of this page:
+  widely among organizations. Some organizations require
+  employees to pay a significant percentage of the premiums
+  for insurance plans such as dental coverage. Other organiza-
+  tions pick up 100 percent of the premiums.
+  Benefits such as health insurance usually extend
+  to employees’ spouses and dependants. To ensure
+  an
+  employer does not face a charge of discrimination related
+  to sexual orientation and/or marital status as a protected
+  ground of discrimination, employers cover different-sex as
+
+=== PDF page 241 ===
+Matched line: 'Chapter 8' (line 1 on page)
+First 10 lines of this page:
+  Chapter 8
+  Total Rewards
+  217
+  FIGURE 8.10
+  Membership in Registered Pension Plans by Type of Plan and Sector
+  Private Sector (2015)
+  WE Defined benefit
+  (1,264,381 members)
+  || Defined contribution
+  (892,276 members)
+
+=== PDF page 243 ===
+Matched line: 'Chapter 8' (line 24 on page)
+First 10 lines of this page:
+  that are relevant to the employee’s current job or future
+  career at the organization. Employees are reimbursed for
+  these expenses after they demonstrate they have completed
+  an approved course. Tuition reimbursement is an important
+  benefit at many organizations on top employer lists.
+  Selecting Employee Benefits
+  Although
+  the government
+  requires
+  certain
+
+=== PDF page 245 ===
+Matched line: 'Chapter 8' (line 2 on page)
+First 10 lines of this page:
+  Did You KNOW?
+  Chapter 8
+  Total Rewards
+  221
+  Benefits Are Important to Employees
+  The Society for Human Resource Management
+  has found
+  that
+  benefits
+  consistently
+
+=== PDF page 247 ===
+Matched line: 'Chapter 8' (line 1 on page)
+First 10 lines of this page:
+  Chapter 8
+  Total Rewards
+  223
+  Breakdown of CEO Pay
+  Base salary
+  MY) Bonus
+  §§ Share-based compensation
+  a Option-based compensation
+  All other compensation
+  B® Pension value
+
+=== PDF page 249 ===
+Matched line: 'Chapter 8' (line 27 on page)
+First 10 lines of this page:
+  pay structure policy. Organizations typically begin with a
+  job evaluation to measure the relative worth of their jobs.
+  To obtain more flexibility, organizations may reduce the lev-
+  els in the organization’s job structure. Other organizations
+  reward employees according to their competencies.
+  LO3 Describe how organizations recognize individual,
+  team, and organizational performance with incentives.
+  Organizations
+  may recognize
+  individual
+
+=== PDF page 251 ===
+Matched line: 'Chapter 8' (line 23 on page)
+First 10 lines of this page:
+  Some of that education and support can come through
+  social media tools. The knowledge-sharing function of
+  social media readily lends itself to educating employees
+  about health. For example, the employer could feature
+  healthy items on the cafeteria menu each week or a page
+  to share ideas for managing stress or working exercise into
+  one’s daily routine.
+  In the area of support, just as employees might use
+  the company’s computer network to find colleagues with
+  knowledge, the company could set up web pages or a Twit-
+
+=== PDF page 253 ===
+Matched line: 'CHAPTER 9' (line 3 on page)
+First 10 lines of this page:
+  Meeting
+  Other HR Goals
+  CHAPTER 9
+  Labour Relations
+  CHAPTER 10
+  Managing Human Resources Globally
+  CHAPTER 11
+  Creating and Sustaining
+  si pion Rettoumancs Organizations
+  O
+
+=== PDF page 253 ===
+Matched line: 'CHAPTER 10' (line 5 on page)
+First 10 lines of this page:
+  Meeting
+  Other HR Goals
+  CHAPTER 9
+  Labour Relations
+  CHAPTER 10
+  Managing Human Resources Globally
+  CHAPTER 11
+  Creating and Sustaining
+  si pion Rettoumancs Organizations
+  O
+
+=== PDF page 253 ===
+Matched line: 'CHAPTER 11' (line 7 on page)
+First 10 lines of this page:
+  Meeting
+  Other HR Goals
+  CHAPTER 9
+  Labour Relations
+  CHAPTER 10
+  Managing Human Resources Globally
+  CHAPTER 11
+  Creating and Sustaining
+  si pion Rettoumancs Organizations
+  O
+
+=== PDF page 254 ===
+Matched line: 'CHAPTER 9 |' (line 2 on page)
+First 10 lines of this page:
+  F
+  CHAPTER 9 |
+  Labour Relations
+  WHAT DO | NEED TO KNOW?
+  After reading this chapter, you should be able to:
+  LO1
+  LO2
+  LO3
+  LO4
+  LOS
+
+=== PDF page 255 ===
+Matched line: 'Chapter 9' (line 54 on page)
+First 10 lines of this page:
+  Unionization is in the
+  Air at Westlet
+  WestJet has built a reputation for having a culture and
+  work environment that is caring and fun, providing an
+  excellent guest experience, and sustaining a successful and
+  profitable business that shares profits with its employees,
+  “WestJetters.”” However, WestJet narrowly averted a strike
+  of its unionized pilots, and media reports cited “growing
+  anger among WestJet flight attendants about a compen-
+  sation model that restricts hourly wages to time actually
+
+=== PDF page 257 ===
+Matched line: 'Chapter 9' (line 66 on page)
+First 10 lines of this page:
+  Traditionally, unions were characterized by being
+  either craft or industrial unions. Members of a craft union
+  had a particular skill or occupation, e.g., the International
+  Brotherhood of Electrical Workers representing electricians
+  (IBEW); whereas industrial unions comprised members
+  who were linked by their work in a particular industry. These
+  distinctions between types of unions are less clear today.
+  For example, some “locals” of the IBEW now represent a
+  variety of types of employees in the electrical industry and
+  UNIFOR, Canada’s largest private-sector union (created in
+
+=== PDF page 259 ===
+Matched line: 'Chapter 9' (line 1 on page)
+First 10 lines of this page:
+  Chapter 9
+  Labour Relations
+  235
+  FIGURE
+  9.3
+  Unionization Rate by Province
+  Newfoundland and Labrador
+  38.7%
+  Prince Edward Island
+  Saskatchewan
+
+=== PDF page 261 ===
+Matched line: 'Chapter 9' (line 1 on page)
+First 10 lines of this page:
+  Chapter 9
+  Labour Relations
+  237
+  CURE 9. | eae
+  ea
+  Fe x)
+  Union Membership Rates in Selected Countries (2016)
+  Australia
+  Canada
+  Italy
+
+=== PDF page 263 ===
+Matched line: 'Chapter 9' (line 29 on page)
+First 10 lines of this page:
+  perceptions of fairness associated with the use of seniority
+  provisions.
+  As well as working to advance
+  the interests of members, unions
+  poal nivensin
+  :
+  ;
+  9
+  A type of union-
+  often engage in social unionism, — jgm that attempts
+
+=== PDF page 265 ===
+Matched line: 'Chapter 9' (line 33 on page)
+First 10 lines of this page:
+  HR How-To
+  Avoiding Unfair Labour Practices
+  A common core of labour legislation prohibits
+  employers, unions, and individuals from engaging
+  in unfair labour practices. Each jurisdiction
+  in
+  Canada has specific provisions dealing with unfair
+  labour practices by management and unions.
+  Some of the most common examples of unfair
+  labour
+
+=== PDF page 267 ===
+Matched line: 'Chapter 9' (line 40 on page)
+First 10 lines of this page:
+  .©O5 Collective Bargaining
+  When a union has been certified,
+  that union represents employees
+  during collective agreement (con-
+  tract) negotiations.
+  In collective
+  bargaining, a union negotiates on
+  behalf of its members with man-
+  agement representatives
+  to reach
+
+=== PDF page 269 ===
+Matched line: 'Chapter 9' (line 20 on page)
+First 10 lines of this page:
+  Steve Russell/Toronto Star via Getty Images
+  York University contract professors and teaching assistants on
+  the picket line in 2018—the longest strike at an English-speaking
+  university in Canada.
+  to survive a strike), predicting the demands to be made, and
+  establishing the cost of meeting the demands.*° Shifting
+  demographics and priorities must also be carefully consid-
+  ered in developing a plan for how and what to negotiate.
+  For example, it is crucial for both employers and unions to
+  engage and understand Millennials and to be mindful of cul-
+
+=== PDF page 271 ===
+Matched line: 'Chapter 9' (line 108 on page)
+First 10 lines of this page:
+  Alternatives to Strikes and Lockouts
+  Because strikes and lockouts are so costly and disruptive,
+  unions and employers generally prefer other methods for
+  resolving conflicts. Three of the most common alterna-
+  tives are mediation, conciliation, and arbitration. All of
+  these rely on a neutral third party, who usually is appointed
+  by the federal or provincial minister of labour.
+  The
+  least
+  formal
+
+=== PDF page 273 ===
+Matched line: 'Chapter 9' (line 64 on page)
+First 10 lines of this page:
+  how to handle a business slowdown); whether employees
+  feel they can file a grievance without being punished for it;
+  and whether employees believe their union representatives
+  will follow through. Too many grievances may indicate a
+  problem—for example, the union members or managers do
+  not understand how to uphold the collective agreement or
+  have no desire to do so. At the same time, a very small
+  number of grievances may also signal a problem. A very
+  low grievance rate may suggest a fear of filing a griev-
+  ance, a belief that the system does not work, or a belief that
+
+=== PDF page 275 ===
+Matched line: 'Chapter 9' (line 41 on page)
+First 10 lines of this page:
+  year-long
+  consultative
+  process
+  that generated
+  almost
+  12,000 responses to an online survey and 22 discussion
+  forums with more than 500 participants. The recommenda-
+  tions are intended to provide a critical step to achieving the
+  stated Task Force’s diversity inclusion vision for the public
+  SUMMARY
+
+=== PDF page 277 ===
+Matched line: 'Chapter 9' (line 7 on page)
+First 10 lines of this page:
+  purposes by 2024,” however, many organizations do not
+  currently have bargained language in place.
+  Questions
+  1. What data and information do unions and employ-
+  ers need in order to develop effective collective
+  agreement language related to worker impairment
+  Chapter 9
+  Labour Relations
+  253
+  associated with drug use/abuse (including prescrip-
+
+=== PDF page 278 ===
+Matched line: 'CHAPTER 10' (line 1 on page)
+First 10 lines of this page:
+  CHAPTER 10
+  Managing Human
+  Resources Globally
+  WHAT DO! NEED TO KNOW?
+  After reading this chapter, you should be able to:
+  LO4
+  Summarize how the growth in international business activity affects human
+  resource management.
+  LO2
+  Identify the factors that most strongly influence HRM in global markets.
+
+=== PDF page 279 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  255
+  Tim Hortons’ Launch
+  into China
+  Tim Hortons recently announced plans to open more than
+  1,500 restaurants in China over the next 10 years through
+  a joint venture of its parent company, Restaurant Brands
+  International (RBI) and Cartesian Capital Group. RBI is
+  following the global expansion business model it used to
+
+=== PDF page 281 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  257
+  et
+  The Washington Post/Getty Images
+  Founded in 1998, Vancouver-based athleisure giant Lululemon continues its aggressive plans for global growth. International sales are
+  projected to contribute $1 billion of annual revenue by 2020.®
+  example, the Canadian and Australian managers working in
+  Barbados would be expatriates during those assignments.
+  The extent to which organizations use home-country,
+
+=== PDF page 283 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  259
+  of cultures. Decisions that are the outcome of a transna-
+  tional HRM system balance uniformity (for fairness) with
+  flexibility (to account for cultural and legal differences).
+  This balance and the variety of perspectives should work
+  together to improve the quality of decision making. The
+  participants from various countries and cultures contrib-
+  ute ideas from a position of equality, rather than the home
+
+=== PDF page 285 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  In Germany, managers achieve their status by demonstrat-
+  ing technical skills, and employees look to managers to
+  assign tasks and resolve technical problems. In the Nether-
+  lands, managers focus on seeking agreement, exchanging
+  views, and balancing the interests of the people affected
+  by a decision.!> Clearly, differences like these would affect
+  how an organization selects and develops its leaders and
+  measures their performance.
+
+=== PDF page 287 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  263
+  Political-Legal System
+  A country’s political—legal system—its government, laws,
+  and regulations—strongly impacts human resource man-
+  agement. The country’s laws often dictate the requirements
+  for certain HRM practices, such as training, compensation,
+  selection, and labour relations. For example, dissatisfaction
+  with the European Union’s principle of free movement
+
+=== PDF page 289 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  265
+  e flexibility, tolerance of ambiguity, and sensitivity to
+  cultural differences;
+  ® motivation to succeed and enjoyment of challenges;
+  ® willingness
+  to learn about
+  the foreign country’s
+  culture, language, and customs;
+
+=== PDF page 291 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  267
+  TABLE 10.2
+  Selected Topics for Assessing Candidates for International Assignments
+  Motivation
+  » What are the candidate’s reasons and degree of interest in wanting an international assignment?
+  + Does the candidate have a realistic understanding of what is required in working and living internationally?
+  + What is the partner’s/spouse’s mindset toward an international assignment?
+  Health
+
+=== PDF page 293 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  269
+  on managing expatriates, we provide more detail about
+  such preparation.
+  Cross-cultural
+  preparation
+  is important.
+  Research
+  links it to lower turnover among expatriates, greater will-
+
+=== PDF page 293 ===
+Matched line: 'Chapter 8 explained that total rewards includes decisions' (line 113 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  269
+  on managing expatriates, we provide more detail about
+  such preparation.
+  Cross-cultural
+  preparation
+  is important.
+  Research
+  links it to lower turnover among expatriates, greater will-
+
+=== PDF page 295 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Ficure
+  10.3 I
+  Managing Human Resources Globally
+  271
+  Earnings in Selected Occupations in Three Countries
+  Thousands of Dollars
+  per Year
+  South Korea
+  Germany
+
+=== PDF page 297 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  higher than in Canada. Usually, the employer of an
+  expatriate withholds the amount of tax to be paid in
+  the home country, then pays all of the taxes due in the
+  country where the expatriate is working.
+  3. Incentives, benefits, and services—Most of these
+  issues have to do with whether an employee will
+  receive
+  similar
+  incentives
+
+=== PDF page 299 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  205
+  LO4 Preparing and
+  Managing Expatriates
+  At some point, most international and global organizations
+  assign employees to foreign posts. These assignments give
+  rise to significant human resource requirements, from
+  selecting employees for these assignments to preparing
+  them, compensating them, helping them adjust and remain
+
+=== PDF page 301 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  277
+  bring back? What position will they
+  a
+  ‘
+  repatriation The
+  fill? The new skills may be much
+  process of pre-
+  more than knowledge of a particular _ paring expatriates
+
+=== PDF page 303 ===
+Matched line: 'Chapter 10' (line 1 on page)
+First 10 lines of this page:
+  Chapter 10
+  Managing Human Resources Globally
+  279
+  6. Suppose you work in the HR department of a com-
+  pany that is expanding into a country where the law
+  and culture make it difficult to lay off employees.
+  How should your knowledge of that requirement affect
+  workforce planning for the international operations?
+  7. Suppose an organization decides to improve col-
+  laboration and knowledge sharing by developing an
+
+=== PDF page 305 ===
+Matched line: 'CHAPTER 1' (line 1 on page)
+First 10 lines of this page:
+  CHAPTER 1
+  [i
+  Creating and Sustaining
+  High-Performance Organizations
+  WHAT DO! NEED TO KNOW?
+  After reading this chapter, you should be able to:
+  LO1 = Define high-performance work systems and identify the elements, outcomes,
+  and conditions associated with such a system.
+  LO2 = Explain how human resource management can contribute to high performance.
+  LO3
+
+=== PDF page 307 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  Cs)
+  Creating and Sustaining High-Performance Organizations
+  283
+  Elements of a High-Performance Work System
+  Organizational
+  structure
+  Information
+  systems
+  Organization's
+
+=== PDF page 309 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  Conditions That Contribute
+  to High Performance
+  Certain conditions underlie the formation of a high-
+  performance work system:?
+  e Teams perform work.
+  e Employees participate in selection.
+  e Employees receive formal performance feedback and
+  are actively involved in the performance improvement
+  process.
+
+=== PDF page 311 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  © Getty Images/Photodisc/DAL
+  It's important for companies to capture and share the knowledge
+  of workers who have had years to learn their specialty.
+  Organizations need to set up work in a way that gives
+  employees the authority and ability to make those deci-
+  sions. One of the most popular ways to increase employee
+  responsibility
+  and
+  control
+
+=== PDF page 313 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  Shutterstock / Olha Afanasieva
+  Did office spacesharing company WeWork go too far in reducing
+  its impact on the environment when it recently introduced a policy
+  of not serving pork, poultry, or red meat nor allowing employees
+  to expense those meats to the company?2>
+  social responsibility and “CSR remains a concept that is
+  openly embraced by a strong majority of Canadians.”**
+  For example, research firm GlobeScan found that
+  92 percent of Canadians said that the “the more socially and
+
+=== PDF page 315 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  Disengaged and Overwhelmed Employees
+  Organizations need employees who are fully engaged and
+  committed to their work; however, according to a Deloitte
+  Human Capital Trends Study, “Companies are struggling to
+  engage our modern, 21st century workforce.’ Gallup
+  research “shows that only 13% of employees around the
+  world are actively engaged at work, and more than twice that
+  number are so disengaged they are likely to spread negativity
+  to others.”*4 It was also recently reported that “two-thirds of
+
+=== PDF page 317 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  Creating and Sustaining High-Performance Organizations
+  293
+  then silence, nada, frustration as the status quo pre-
+  productivity, customer loyalty, and the generation of
+  vails.”*° With this in mind, the Gallup Organization
+  value.*' Table
+  11.2 identifies Gallup’s questions for
+  set about to create a better employee feedback process
+  measuring employee engagement.
+
+=== PDF page 319 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  TABLE 11.3
+  Creating and Sustaining High-Performance Organizations
+  295
+  HRM Practices That Can Help Organizations Achieve High Performance
+  HRM practices match organization’s goals.
+  Individuals and groups share knowledge.
+  Work is performed by teams.
+  Organization encourages continuous learning.
+  Work design permits flexibility in where and when tasks are
+
+=== PDF page 321 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  that go beyond the minimum required to perform a
+  job (such as helping co-workers).
+  e Link performance measures to meeting customer
+  needs—‘“Customers”
+  may
+  be
+  the
+  organization’s
+  external customers, or they may be internal customers
+
+=== PDF page 323 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  expectations, be uncoachable, or violate company policies.
+  When this happens, organizations need to apply a disci-
+  pline program that might ultimately lead to discharging
+  the individual.
+  For a number of reasons, discharging employees can
+  be a very difficult but potentially important way to maintain
+  a high-performance and engaging work culture. The deci-
+  sion also has legal aspects that can affect the organization.
+  Historically, if the organization and employee do not have
+
+=== PDF page 325 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  Along with rules and a progression of consequences
+  for violating the rules, a progressive discipline system
+  should have requirements for documenting the rules,
+  offences, and responses. To ensure fairness, the discipline
+  system should provide an opportunity to hear every point
+  of view and to correct errors. Before discussing and filing
+  records of misbehaviour, it is important for the supervisor
+  to investigate the incident. The employee should be made
+  aware of what they are said to have done wrong and should
+
+=== PDF page 327 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  Business Indicators
+  Creating and Sustaining High-Performance Organizations
+  303
+  Customer Satisfaction Measures
+  _
+  Employee Appraisal and Development
+  Distribution of performance appraisal ratings
+  Appropriate psychometric properties of appraisal forms
+  Overall Effectiveness or Impact
+
+=== PDF page 329 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  HR How-To
+  HR Services Go Mobile
+  Software companies are creating apps that let
+  employees view their pay stubs, request time off,
+  check the amounts of their bonuses, fill out and
+  approve timesheets, look up co-workers in company
+  directories, and more. At the same time, a growing
+  number of employees expect to be able to use their
+  mobile devices for accessing work-related informa-
+
+=== PDF page 331 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  recognizing that changes in any one part of the HRM
+  are likely to require changes in other HR areas.
+  Google has sought to achieve this integration in its
+  People Operations team with what it calls the “three-
+  thirds” staffing model:
+  1. One-third traditional HR people—subject-matter
+  experts in HR areas such as compensation and
+  benefits, recruiting, and employment law as well
+  as expertise in client relations. Their knowledge,
+
+=== PDF page 333 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  Creating and Sustaining High-Performance Organizations
+  309
+  LO2 Explain how human resource management can
+  contribute to high performance.
+  All areas of human resource management—for example,
+  job analysis and design; recruitment and selection; train-
+  ing, learning, and development; performance manage-
+  ment;
+  and rewards—make
+
+=== PDF page 335 ===
+Matched line: 'Chapter 11' (line 1 on page)
+First 10 lines of this page:
+  Chapter 11
+  Creating and Sustaining High-Performance Organizations
+  311
+  location) and the data a Googler provides within the tool
+  (e.g., skills they want to develop). Not surprisingly, given
+  Google’s search capability, this system allows employees to
+  search for learning resources or jobs of interest.
+  Grow is an inherently social platform, and every
+  Googler has a customizable profile that is visible to
+  others. Googlers can tag skills they have (e.g., consulting,
+
+=== PDF page 336 ===
+Matched line: 'CHAPTER 1' (line 2 on page)
+First 10 lines of this page:
+  Notes
+  CHAPTER 1
+  ie
+  00
+  10.
+  Welle
+  PX
+  (Sh
+  Shopify website, “We’ve Read a Lot of Cover Letters over
+  the Years. Your Turn. We’re Applying to You,” June 22,
+
+=== PDF page 338 ===
+Matched line: 'CHAPTER 2' (line 132 on page)
+First 10 lines of this page:
+  EN-3
+  61.
+  62.
+  63.
+  64.
+  65.
+  66.
+  Sle
+  68.
+  69.
+
+=== PDF page 341 ===
+Matched line: 'CHAPTER 3' (line 46 on page)
+First 10 lines of this page:
+  86.
+  87.
+  88.
+  89,
+  90.
+  on
+  O25
+  93;
+  94.
+  5:
+
+=== PDF page 342 ===
+Matched line: 'CHAPTER 4' (line 49 on page)
+First 10 lines of this page:
+  EN-7
+  25.
+  26.
+  PY
+  28:
+  Bo
+  30.
+  hile
+  32
+  33:
+
+=== PDF page 343 ===
+Matched line: 'CHAPTER 5' (line 147 on page)
+First 10 lines of this page:
+  30.
+  311),
+  32%
+  SIs}.
+  34.
+  35,
+  36.
+  37.
+  38.
+  39;
+
+=== PDF page 346 ===
+Matched line: 'CHAPTER 6' (line 52 on page)
+First 10 lines of this page:
+  EN-11
+  63.
+  64,
+  65.
+  66.
+  67.
+  68.
+  69.
+  70.
+  Notes
+
+=== PDF page 349 ===
+Matched line: 'CHAPTER 7' (line 133 on page)
+First 10 lines of this page:
+  87.
+  88.
+  89.
+  90.
+  Mile
+  O2)
+  28),
+  94.
+  2)5).
+  96.
+
+=== PDF page 351 ===
+Matched line: 'CHAPTER 8' (line 160 on page)
+First 10 lines of this page:
+  44.
+  45.
+  46.
+  47.
+  48.
+  49.
+  50.
+  Sil:
+  bz
+  53:
+
+=== PDF page 353 ===
+Matched line: 'CHAPTER 9' (line 161 on page)
+First 10 lines of this page:
+  Si:
+  33)
+  34.
+  35.
+  36.
+  37.
+  38.
+  SHS).
+  40.
+  41.
+
+=== PDF page 355 ===
+Matched line: 'CHAPTER 10' (line 118 on page)
+First 10 lines of this page:
+  82
+  S3:
+  34,
+  S35)
+  36.
+  SW
+  38.
+  39:
+  40.
+  41.
+
+=== PDF page 357 ===
+Matched line: 'CHAPTER 11' (line 135 on page)
+First 10 lines of this page:
+  40.
+  41.
+  42.
+  43.
+  44,
+  45.
+  46,
+  47.
+  48.
+  49.
+
+Audit complete. Review this file to tune your chapter detection.
