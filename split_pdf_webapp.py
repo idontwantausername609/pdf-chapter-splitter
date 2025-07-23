@@ -7,7 +7,7 @@ import os
 st.title("Manual PDF Chapter Splitter")
 
 uploaded_file = st.file_uploader("Upload your PDF", type="pdf")
-page_list = st.text_input("Enter chapter start pages (comma-separated, 1-based):", "26, 56, 86, 107, 132, 158, 192, 220, 254, 278, 305, 336")
+page_list = st.text_input("Enter chapter start pages (comma-separated, 1-based):", placeholder="e.g. 26, 56, 86, 107, ...")
 
 if uploaded_file and page_list:
     chapter_starts = [int(x.strip()) for x in page_list.split(",") if x.strip().isdigit()]
